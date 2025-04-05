@@ -18,6 +18,15 @@ Chaque niveau est documenté dans son propre dossier avec:
 - Techniques de correction recommandées
 - Implications dans des projets réels
 
+## Niveaux résolus
+
+- **Level 0: Hello Ethernaut** - Introduction aux challenges
+- **Level 1: Fallback** - Exploitation de logique de fallback pour prendre contrôle
+- **Level 2: Fallout** - Bug dans le constructeur (typo)
+- **Level 3: Coin Flip** - Prédiction de résultats pseudo-aléatoires
+- **Level 4: Telephone** - Distinction entre tx.origin et msg.sender
+- **Level 6: Token** - Vulnérabilité d'underflow arithmétique dans Solidity <0.8.0
+
 ## Compétences techniques démontrées
 
 - Solidity
